@@ -1,0 +1,6 @@
+{
+  "name": "Memo Alert",
+  "description": "Sistema de gestión de pedidos y recordatorios auditivos/visuales diseñado para personas mayores y pequeños negocios de comida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
